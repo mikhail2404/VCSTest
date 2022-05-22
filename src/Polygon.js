@@ -3,7 +3,7 @@ import React from 'react';
 const Polygon = () => {
   return (
     <div>
-      Polygon
+      Polygon2
     </div>
   );
 };
