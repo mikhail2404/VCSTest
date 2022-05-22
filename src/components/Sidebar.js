@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Polygon = () => {
+const Sidebar = () => {
   return (
     <div>
-      Polygon5
+      Sidebar
     </div>
   );
 };
 
-export default Polygon;
+export default Sidebar;

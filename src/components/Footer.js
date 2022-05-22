@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Polygon = () => {
+const Footer = () => {
   return (
     <div>
-      Polygon5
+      Footer
     </div>
   );
 };
 
-export default Polygon;
+export default Footer;
